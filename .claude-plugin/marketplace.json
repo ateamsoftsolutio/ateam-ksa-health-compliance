@@ -1,0 +1,12 @@
+{
+  "name": "ateam-ksa-health",
+  "owner": { "name": "ATeam Soft Solutions" },
+  "metadata": { "description": "Saudi healthcare compliance plugins from ATeam Soft Solutions." },
+  "plugins": [
+    {
+      "name": "ateam-ksa-health-compliance",
+      "source": "./",
+      "description": "Engineering checklist for Saudi healthcare compliance: PDPL and transfers, NCA controls, MoH/NHIC HIE policies, telehealth, NPHIES and SFDA."
+    }
+  ]
+}
